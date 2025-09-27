@@ -56,21 +56,21 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
                   <span className="text-[#0891b2] block">Confidence & Purpose</span>
                 </h1>
                 <p className="text-xl text-[#718096] max-w-lg leading-relaxed">
-                  A trusted platform for students across India to discover their strengths, explore career paths, 
+                  A trusted platform for students across India to discover their strengths, explore career paths,
                   and create a roadmap to professional success.
                 </p>
               </div>
               
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button 
-                  onClick={onGetStarted} 
+                <Button
+                  onClick={onGetStarted}
                   className="bg-[#0891b2] hover:bg-[#0e7490] text-white shadow-lg hover:shadow-xl transition-all duration-200 text-lg px-8 py-4 rounded-lg"
                 >
                   Get Started Today
                   <ArrowRight className="h-5 w-5 ml-2" />
                 </Button>
-                <Button 
-                  variant="outline" 
+                <Button
+                  variant="outline"
                   className="border-2 border-[#0891b2] text-[#0891b2] hover:bg-[#0891b2] hover:text-white text-lg px-8 py-4 rounded-lg transition-all duration-200"
                 >
                   Explore Features
@@ -102,10 +102,10 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
             <div className="relative">
               <div className="relative z-10">
                 <ImageWithFallback
-  src="https://images.unsplash.com/photo-1740205645010-b4dfbe00f51f?..."
-  alt="Professional students collaborating in a modern learning environment"
-  className="w-full h-auto rounded-lg shadow-2xl"
-/>
+                  src="https://images.unsplash.com/photo-1628155913988-294711f56860?q=80&w=2670&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+                  alt="Diverse students collaborating on a project in a modern setting"
+                  className="w-full h-auto rounded-lg shadow-2xl"
+                />
               </div>
               
               {/* Subtle accent elements */}
@@ -133,7 +133,7 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
               <span className="text-[#0891b2] block">Shape Your Future</span>
             </h2>
             <p className="text-xl text-[#718096] max-w-3xl mx-auto leading-relaxed">
-              Our integrated platform provides you with professional-grade tools and insights 
+              Our integrated platform provides you with professional-grade tools and insights
               to make informed decisions about your career and education.
             </p>
           </div>
@@ -192,11 +192,11 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
               Ready to Build Your Future?
             </h2>
             <p className="text-xl opacity-95 max-w-2xl mx-auto leading-relaxed">
-              Take the first step towards a successful career. Join our community of ambitious students 
+              Take the first step towards a successful career. Join our community of ambitious students
               and start creating your growth canvas today.
             </p>
           </div>
-          <Button 
+          <Button
             onClick={onGetStarted}
             className="bg-white text-[#0891b2] hover:bg-gray-100 shadow-xl hover:shadow-2xl transition-all duration-200 text-xl px-10 py-6 rounded-lg font-bold"
           >
@@ -218,7 +218,7 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
                 <h3 className="font-bold text-xl text-[#1a202c]">CareerGuide</h3>
               </div>
               <p className="text-[#718096] leading-relaxed">
-                Empowering students across India with professional career guidance 
+                Empowering students across India with professional career guidance
                 and comprehensive educational support.
               </p>
             </div>
