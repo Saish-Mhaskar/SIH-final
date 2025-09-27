@@ -102,10 +102,10 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
             <div className="relative">
               <div className="relative z-10">
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1740205645010-b4dfbe00f51f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBzdHVkZW50cyUyMHN0dWR5aW5nJTIwY29sbGFib3JhdGlvbiUyMG1vZGVybiUyMGNsZWFufGVufDF8fHx8MTc1ODk4NDY2N3ww&ixlib=rb-4.1.0&q=80&w=1080&utm_source=figma&utm_medium=referral"
-                  alt="Professional students collaborating in a modern learning environment"
-                  className="w-full h-auto rounded-lg shadow-2xl"
-                />
+  src="https://images.unsplash.com/photo-1740205645010-b4dfbe00f51f?..."
+  alt="Professional students collaborating in a modern learning environment"
+  className="w-full h-auto rounded-lg shadow-2xl"
+/>
               </div>
               
               {/* Subtle accent elements */}
