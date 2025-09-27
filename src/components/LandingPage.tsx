@@ -102,7 +102,7 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
             <div className="relative">
               <div className="relative z-10"> 
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1542831371-29b0f74f9713?q=80&w=2670&auto=format&fit=crop"
+                  src="https://images.unsplash.com/photo-1596526154109-17075c347f3b?q=80&w=2670&auto=format&fit=crop"
                   alt="Diverse students collaborating on a project in a modern setting"
                   className="w-full h-auto rounded-lg shadow-2xl"
                 />
