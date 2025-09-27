@@ -102,7 +102,7 @@ export function LandingPage({ onGetStarted }: LandingPageProps) {
             <div className="relative">
               <div className="relative z-10"> 
                 <ImageWithFallback
-                  src="https://images.unsplash.com/photo-1579546950130-9b6e82a628be?q=80&w=2670&auto=format&fit=crop"
+                  src="https://i0.wp.com/www.mindgroom.com/wp-content/uploads/2021/12/role_of_career_counselor.webp?ssl=1"
                   alt="Diverse students collaborating on a project in a modern setting"
                   className="w-full h-auto rounded-lg shadow-2xl"
                 />
