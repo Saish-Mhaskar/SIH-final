@@ -51,7 +51,7 @@ export function Navigation({ currentPage, onNavigate, user }: NavigationProps) {
             </div>
             <div>
               <h1 className="text-xl font-bold text-[#1a202c]">
-                CareerGuide
+                CARYON
               </h1>
               <p className="text-xs text-[#718096] -mt-1">Growth Canvas</p>
             </div>
